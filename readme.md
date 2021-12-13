@@ -1,8 +1,8 @@
-# Calculator Project 3
+# tables
 
-### -Created by Neha Kazi, Shilpa Parameshwara and Karthik Chandrashekar
 
-### [Calculator](https://youtu.be/WfqhQGAwGXc)
+
+
 
 #Calculator home page
 
@@ -21,8 +21,7 @@
 ![div page](web_screenshot/Screenshot%20(38).png)
 #tables
 ![table page](web_screenshot/Screenshot%20(39).png)
-#oops 
-![oops page](web_screenshot/Screenshot%20(40).png)
+
 
 
 
