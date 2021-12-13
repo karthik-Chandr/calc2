@@ -1,0 +1,17 @@
+language: python
+python:
+  - "3.9"
+install:
+  - pip install -r requirements.txt
+# command to run tests
+script:
+  - pytest  --pylint --cov
+
+branches:
+  only:
+    - main
+    - development
+    - calc_part2
+    - calc_profmirroredcode_branch_part2
+    - refactor_assignment_part3
+    - refactor_part5
